@@ -52,7 +52,7 @@ setup(name='hatsploit',
           'hatasm @ git+https://github.com/EnderMinecraft/HatAsm',
           'pex @ git+https://github.com/EnderMinecraft/Pex',
           'colorscript @ git+https://github.com/EntySec/ColorScript',
-          'pwny @ git+https://github.com/EntySec/Pwny',
+          'pwny @ git+https://github.com/EnderMinecraft/Pwny',
       ],
       zip_safe=False,
       )
